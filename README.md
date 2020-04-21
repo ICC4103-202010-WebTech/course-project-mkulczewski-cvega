@@ -1,5 +1,5 @@
 # Course project mkulczewski-cvega
-Please excuse us, we had a problem with the upload of the proyect to github due to the master branch being up to date with the changes,
+Please excuse us, we had a problem with the upload proces of the proyect to github due to the master branch being up to date with the changes,
 this was beacause an error we had with the first commit of the proyect that results in a extrange folder that is uploades in the master branch (the proyect 1.2). We had to resort to upluad the proyect in a zip folder (the last file) that contais everything.
 
 
