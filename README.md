@@ -4,7 +4,8 @@ For the database we create a mini base in the seeds file to run the queries. Our
  - The admin of the organization will be the creator
  - When an invitation is recived the user must choose an option immediately and this is the vote
 
-Questions 13, 14, 15:
+Questions 13, 14, 15
+
 13) If an event in our model there would be a cascade that will delete all the invitations and the votes of the users or at least delete the foreing keys (depends on the dependent). From our point of view this default feature (cascade) makes sense beacause if the event is deleted the invitations will no longer be usefull as well as the votes. To improve this feature, there could be a trigger the notifies you if the event was deleted, but that is an idea for the future.
 
 14) If an organization is deleted as well as the previous answer the default cascade feature will take action and all the connections like organization members and organization events will be deleted, but the event itself will not. This doesnt make sense, beacause in real life if an organization is disolved all the events will be canceled. So to improve our model there should be dependents to the event so when a organization is deleted all the events realted to that organization will be deleted aswell.  
