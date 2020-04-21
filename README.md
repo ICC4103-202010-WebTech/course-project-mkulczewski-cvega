@@ -1,4 +1,8 @@
-# course-project-mkulczewski-cvega
+# Course project mkulczewski-cvega
+Please excuse us, we had a problem with the upload of the proyect to github due to the master branch being up to date with the changes,
+this was beacause an error we had with the first commit of the proyect that results in a extrange folder that is uploades in the master branch (the proyect 1.2). We had to resort to upluad the proyect in a zip folder (the last file) that contais everything.
+
+
 For the queries that we write we put a default id for each one of the queries to make them work, those can be found in the "find()" method or in the "where" section.
 For the database we create a mini base in the seeds file to run the queries. Our assumptions with the model are these ones:
  - The admin of the organization will be the creator
